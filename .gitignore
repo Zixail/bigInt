@@ -1,1 +1,15 @@
-/bigInt.exe
+# Ignore executables and generated text outputs
+*.exe
+*.txt
+
+# Common build/temp artifacts (optional)
+build/
+bin/
+obj/
+*.o
+*.obj
+*.out
+*.log
+*.tmp
+*.bak
+.vscode/
